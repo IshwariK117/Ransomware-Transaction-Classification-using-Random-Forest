@@ -1,7 +1,7 @@
 
 # Ransomware-Transaction-Classification-using-Random-Forest
 
-![Interface](https://github.com/IshwariK117/Ransomware-Transaction-Classification-using-Random-Forest/blob/main/ransomware SS.jpeg)
+![Interface](https://github.com/IshwariK117/Ransomware-Transaction-Classification-using-Random-Forest/blob/main/ransomware%20SS.jpeg)
 
 ## Introduction
 
