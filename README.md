@@ -13,7 +13,8 @@ Developed a sophisticated system to identify ransomware transactions, focusing o
 
 Ransomware is a type of malicious software that restricts access to a victim's data until a ransom is paid. While some versions encrypt files, making them unreadable, others simply lock the device. In more advanced forms, known as crypto viral extortion, files are encrypted in a way that makes recovery without the decryption key nearly impossible. The whole ransomware economy revolves around cryptocurrency. Hence, the classification of normal and ransomware transactions plays a vital role in ransomware attack forensics. 
 
-We aim to construct a sophisticated system capable of identifying ransomware transactions. We have performed a feasibility analysis of state-of-the-art machine learning models and found that Random Forest performs far better than other classification models. For the aforementioned scenario, we have used a standard dataset with over 3,000 samples, focusing on five different types of ransomware families: Cerber, Locky, TeslaCrypt, Yakes, and Reveton. Hence, we are proposing a ransomware transaction classification model based on the Random Forest machine learning method.
+We aim to construct a sophisticated system capable of identifying ransomware transactions. We have performed a feasibility analysis of state-of-the-art machine learning models and found that <span style="background-color: yellow">Random Forest performs far better than other classification models</span>. For the aforementioned scenario, we have used a standard dataset with over 3,000 samples, focusing on five different types of ransomware families: Cerber, Locky, TeslaCrypt, Yakes, and Reveton. Hence, we are proposing a ransomware transaction classification model based on the <span style="background-color: yellow">Random Forest machine learning method</span>.
+
 
 ## Getting Started
 
